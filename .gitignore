@@ -1,2 +1,5 @@
 kaggle.json
 kaggle_api_key/
+*.parquet
+__pycache__/
+*.pyc
